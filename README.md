@@ -1,3 +1,5 @@
+## Minigrep
+
 ````markdown
 # MiniGrep 🔍
 
