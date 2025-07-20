@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` for your `minigrep` Rust project hosted at [github.com/sankeerth125/minigrep](https://github.com/sankeerth125/minigrep).
-
----
-
 ````markdown
 # MiniGrep 🔍
 
